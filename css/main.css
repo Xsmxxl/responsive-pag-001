@@ -1,0 +1,19 @@
+.tech img{
+    width: 15%;
+}
+
+@@media (min-width: 319px) and (max-width: 768px){
+    .izq{
+        margin-left: auto!important;
+    }
+}@media (min-width: 769px){
+    .izq{
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+}
+
+.div-icon-text {
+    display: block !important;
+    text-align: center;
+}
